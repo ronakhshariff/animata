@@ -1,5 +1,7 @@
 Animata - Interactive Wildlife Geography Game
 
+Link: https://dashboard.render.com/web/srv-cvd7k4t6l47c73b0o1kg/logs
+
 Animata is an immersive, educational web-based game that combines wildlife photography, geography, and artificial intelligence to create an engaging learning experience. Players test their knowledge of animal habitats by guessing the locations where wildlife photographs were taken, earning points based on accuracy and speed.
 
 Key Features:
