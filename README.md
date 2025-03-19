@@ -1,23 +1,28 @@
-Animata - Interactive Wildlife Geography Game
+# Animata - Interactive Wildlife Geography Game
 
-Link: https://dashboard.render.com/web/srv-cvd7k4t6l47c73b0o1kg/logs
+Link: https://animata.onrender.com/
 
+## Overview
 Animata is an immersive, educational web-based game that combines wildlife photography, geography, and artificial intelligence to create an engaging learning experience. Players test their knowledge of animal habitats by guessing the locations where wildlife photographs were taken, earning points based on accuracy and speed.
 
-Key Features:
-Interactive Gameplay
+##  Key Features
+
+### Interactive Gameplay
 - Real-time location guessing on an interactive map
 - Dynamic scoring system based on geographical accuracy
 - Progressive hint system with AI-generated clues
 - Detailed results with distance calculations and accuracy metrics
 - Global leaderboard and achievement system
 
-AI Integration
+### AI Integration
+- **Google Gemini AI Integration**
   - Real-time animal species identification from photographs
   - Generation of scientifically accurate animal facts
   - Dynamic hint generation based on animal characteristics
   - Natural language processing for enhanced user experience
-User Interface
+
+### User Interface
+- **Advanced CSS Effects**
   - Glassmorphism design with dynamic blur effects
   - Neumorphic elements for depth and dimension
   - Interactive hover states with 3D transformations
@@ -25,7 +30,9 @@ User Interface
   - Mouse-following ambient light effects
   - Gradient animations and transitions
   - Responsive design for all screen sizes
-Technical Implementation
+
+### Technical Implementation
+- **Frontend Technologies**
   - HTML5 for semantic structure
   - CSS3 with advanced animations and transitions
   - Vanilla JavaScript for DOM manipulation
@@ -33,14 +40,17 @@ Technical Implementation
   - Dynamic content loading
   - Responsive image handling
 
-- Backend Technologies
+- **Backend Technologies**
   - Node.js with Express.js server
   - RESTful API architecture
   - Environment variable management
   - CORS handling
   - Static file serving
   - Error handling middleware
-Technologies Used
+
+##  Technologies Used
+
+### Core Technologies
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Backend**: Node.js, Express.js
 - **APIs**: Google Gemini AI, National Parks Service API
@@ -72,7 +82,7 @@ Technologies Used
   - Event delegation for performance
   - Dynamic DOM manipulation
 
-## Design Features
+##  Design Features
 
 ### Visual Effects
 - **Interactive Elements**
@@ -91,7 +101,7 @@ Technologies Used
   - Toast notifications
   - Achievement badges
 
-## API Integration
+##  API Integration
 
 ### Google Gemini AI
 - Real-time image analysis for animal identification
@@ -105,7 +115,7 @@ Technologies Used
 - Habitat and ecosystem data
 - Conservation status information
 
-## Game Mechanics
+##  Game Mechanics
 
 ### Scoring System
 - Distance-based point calculation
@@ -121,35 +131,35 @@ Technologies Used
 - Performance statistics
 - Global ranking system
 
-## Security Features
+##  Security Features
 - Environment variable management
 - API key protection
 - CORS policy implementation
 - Input validation
 - Error handling
 
-## Performance Optimization
+##  Performance Optimization
 - Lazy loading of images
 - Code splitting
 - Minified assets
 - Caching strategies
 - Optimized API calls
 
-## Responsive Design
+##  Responsive Design
 - Mobile-first approach
 - Fluid typography
 - Adaptive layouts
 - Touch-friendly interfaces
 - Cross-browser compatibility
 
-## Future Enhancements
+##  Future Enhancements
 - Multiplayer functionality
 - Additional animal species
 - Enhanced AI interactions
 - Social sharing features
 - Advanced achievement system
 
-## Unique Selling Points
+##  Unique Selling Points
 - Educational gaming experience
 - AI-powered interactions
 - Beautiful, modern UI/UX
@@ -158,7 +168,7 @@ Technologies Used
 
 ---
 
-## Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -187,3 +197,4 @@ npm start
 ```
 
 5. Visit `http://localhost:3000` in your browser
+
